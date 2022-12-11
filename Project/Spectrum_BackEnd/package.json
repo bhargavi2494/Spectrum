@@ -13,7 +13,7 @@
     "callback": "0.0.1",
     "cors": "*",
     "ejs": "^2.6.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-session": "^1.15.6",
     "gridfs-stream": "^1.1.1",
     "jsonwebtoken": "*",
